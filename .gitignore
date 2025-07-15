@@ -1,0 +1,5 @@
+.qodo
+bin
+.env
+*.txt
+*.pdf
